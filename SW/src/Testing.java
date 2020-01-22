@@ -2,6 +2,7 @@
 public class Testing {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 
 
 		for(int i=0;i<=5;i++){
@@ -10,6 +11,9 @@ public class Testing {
 			}
 			System.out.println("");
 		}}}
-
+=======
+		System.out.println("Hello123");
+	}
+>>>>>>> parent of 1388efa... [DTEst
 
 
