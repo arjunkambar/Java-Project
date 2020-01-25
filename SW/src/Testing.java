@@ -5,9 +5,15 @@ public class Testing {
 			for(int j=0;j<=i;j++){
 				System.out.print("*");
 			}
-			System.out.println("STars");
-		}
-	        }}
+			System.out.println("Stars");
+		}}}
+
+
+
+
+
+	        
+
 
 
 
